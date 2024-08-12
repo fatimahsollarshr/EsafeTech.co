@@ -1,0 +1,73 @@
+
+---Downloaded files---
+The import files for: Home Version One were successfully downloaded!
+Initial max execution time = 30000
+Files info:
+Site URL = https://taskly.lk
+Data file = /home/taskly/public_html/wp-content/uploads/2023/10/demo-content-import-file_2023-10-18__04-42-21.xml
+Widget file = /home/taskly/public_html/wp-content/uploads/2023/10/demo-widgets-import-file_2023-10-18__04-42-21.json
+Customizer file = /home/taskly/public_html/wp-content/uploads/2023/10/demo-customizer-import-file_2023-10-18__04-42-21.dat
+Redux files:
+anaton_options -> /home/taskly/public_html/wp-content/uploads/2023/10/demo-redux-import-file_0-2023-10-18__04-42-21.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Categories - No Title - Imported
+Recent Comments - No Title - Imported
+Tag Cloud - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: anaton_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
